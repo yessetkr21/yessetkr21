@@ -2,6 +2,8 @@
 
 **Software Engineer**  
 **EAFIT University**
+# Skills 
+[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sql,python,tailwind,js)](https://skillicons.dev)
 
 📍 Medellín, Colombia  
 📧 yessetkr2190@gmail.com
