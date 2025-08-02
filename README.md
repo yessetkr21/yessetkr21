@@ -2,7 +2,7 @@
 
 **Software Engineer**  
 **EAFIT University**
-**Skills**
+# Skills
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,tailwind,js,nodejs,vite,git)](https://skillicons.dev)
 
 📍 Medellín, Colombia  
