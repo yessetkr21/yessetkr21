@@ -5,7 +5,6 @@
 
 📍 Medellín, Colombia  
 📧 yessetkr2190@gmail.com
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/870307a1-6eb0-4d02-b993-dd0c08abc044" />
 
 
 <!--
