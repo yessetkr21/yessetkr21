@@ -4,7 +4,8 @@
 **EAFIT University**
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,tailwind,js,nodejs,vite,git)](https://skillicons.dev)
-
+# Portfolio
+[Portfolio](https://portfolio-yessetkr.vercel.app/)
 📍 Medellín, Colombia  
 📧 yessetkr2190@gmail.com
 
