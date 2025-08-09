@@ -1,14 +1,27 @@
 # Yessetk Rodriguez
 
 **Software Engineer**  
-**EAFIT University**
-**(https://portfolio-yessetkr.vercel.app/)**
+EAFIT University  
 
-# Skills
+---
+
+## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,tailwind,js,nodejs,vite,git)](https://skillicons.dev)
 
+---
+
+## Portfolio
+
+🔗 [Visit my Portfolio](https://portfolio-yessetkr.vercel.app/)  
+
+---
+
+## Contact
+
 📍 Medellín, Colombia  
-📧 yessetkr2190@gmail.com
+📧 yessetkr2190@gmail.com  
+
 
 
 <!--
