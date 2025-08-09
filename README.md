@@ -12,7 +12,7 @@ EAFIT University
 
 ## Portfolio
 
-🔗 [Portfolio](https://portfolio-yessetkr.vercel.app/)  
+https://portfolio-yessetkr.vercel.app/
 
 ---
 
