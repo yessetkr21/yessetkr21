@@ -1,5 +1,4 @@
 # Yessetk Rodriguez
-
 **Software Engineer**  
 EAFIT University  
 
@@ -13,7 +12,7 @@ EAFIT University
 
 ## Portfolio
 
-🔗 [Visit my Portfolio](https://portfolio-yessetkr.vercel.app/)  
+🔗 [Portfolio](https://portfolio-yessetkr.vercel.app/)  
 
 ---
 
@@ -21,8 +20,6 @@ EAFIT University
 
 📍 Medellín, Colombia  
 📧 yessetkr2190@gmail.com  
-
-
 
 <!--
 **yessetkr21/yessetkr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
