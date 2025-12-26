@@ -19,7 +19,7 @@ https://portfolio-yessetkr.vercel.app/
 ## Contact
 
 📍 Medellín, Colombia  
-📧 yessetkr2190@gmail.com  
+📧 yessetkrodriguez80@gmail.com  
 
 <!--
 **yessetkr21/yessetkr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
