@@ -10,12 +10,6 @@ EAFIT University
 
 ---
 
-## Portfolio
-
-https://portfolioyessetkr.vercel.app/
-
----
-
 ## Contact
 
 📍 Medellín, Colombia  
