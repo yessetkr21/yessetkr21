@@ -9,12 +9,6 @@ EAFIT University
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,tailwind,js,nodejs,vite,git)](https://skillicons.dev)
 
 ---
-
-## Contact
-
-📍 Medellín, Colombia  
-📧 yessetkrodriguez80@gmail.com  
-
 <!--
 **yessetkr21/yessetkr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
