@@ -6,7 +6,7 @@ EAFIT University
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,js,nodejs,vite,git,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,sqlite,python,js,nodejs,git,docker,aws)](https://skillicons.dev)
 
 ---
 <!--
